@@ -1,2 +1,2 @@
 # UmasFirstGitHubRepo
-Testing
+Learning github...
